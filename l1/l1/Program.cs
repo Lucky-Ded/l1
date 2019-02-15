@@ -12,7 +12,8 @@ namespace l1
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Hello");
-
+            Console.WriteLine("Hell");
+            Console.WriteLine("He");
             Console.ReadKey();
         }
     }
